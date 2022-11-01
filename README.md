@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalikrishna0409&show_icons=true&theme=merko&locale=en&layout=compact" alt="anjalikrishna0409" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikrishna0409&show_icons=true&locale=en" alt="anjalikrishna0409" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalikrishna0409&theme=merko&show_icons=true&locale=en" alt="anjalikrishna0409" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikrishna0409&" alt="anjalikrishna0409" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalikrishna0409&theme=merko" alt="anjalikrishna0409" /></p>
