@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 <h1 align="center">Holaa😉, I Anjali Krishna</h1>
-<h3 align="center">A mad developer seeking for more n more thoughtful things</h3>
+<h3 align="center">A mad developer seeking for more n more thoughtful ideas</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikrishna0409&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikrishna0409" /> </p>
