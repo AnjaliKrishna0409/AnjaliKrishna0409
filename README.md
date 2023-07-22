@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **DHRM project**
+- 🔭 I’m exploring
 
 - 🌱 I’m currently learning **Angular, react, node js**
 
-- 💬 Ask me about **ur secrets**
+- 💬 Age doesn't matter to be successful
 
 - 📫 How to reach me **anju23krishna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_.anjali__0409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.anjali__0409" height="30" width="40" /></a>
+
 <a href="https://discord.gg/5424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5424" height="30" width="40" /></a>
 </p>
 
