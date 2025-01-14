@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFuNbMsQT8/SFrZvL9vO8cZjg2Dk3c_CA)]()
+[![MasterHead](https://ibb.co/XShjW1q)]()
 <h1 align="center">Holaa😉, I Anjali Krishna</h1>
 <h3 align="center">A mad developer seeking for more n more thoughtful ideas</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/yYSSBtDgbbRzq/giphy.webp">
